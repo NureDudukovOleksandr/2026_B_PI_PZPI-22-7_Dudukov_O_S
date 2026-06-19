@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aingo</string>
+    <string name="default_web_client_id">1092475452707-cfl0f8eg2r274q9qickojasa9lcjvsf2.apps.googleusercontent.com</string>
+    <string name="chat_hint">Type your message...</string>
+</resources>

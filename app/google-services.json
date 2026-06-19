@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092475452707",
+    "project_id": "aingo-e170f",
+    "storage_bucket": "aingo-e170f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092475452707:android:4859fb92ef42ae88da6096",
+        "android_client_info": {
+          "package_name": "com.example.aingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCwzV-cn0w3HpzSa4TxhZtWKdRVx7cmok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
